@@ -1,0 +1,6 @@
+@SmartEventHub_HostAddress = http://localhost:5052
+
+GET {{SmartEventHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
